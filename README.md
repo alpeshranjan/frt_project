@@ -60,11 +60,16 @@ accurate as user point of view. </p>
 
 
 <img width="1356" alt="Screenshot 2022-07-14 at 1 28 43 AM" src="https://user-images.githubusercontent.com/58964309/178825140-4c94d54f-8de6-4d9f-a6de-b15e92e70ee4.png">
+</p> In this cell we have plotted the moving average coins to determine the sentiments of market </p>
 
 
 <img width="1356" alt="Screenshot 2022-07-14 at 1 29 00 AM" src="https://user-images.githubusercontent.com/58964309/178825153-8b227f8f-18a5-4f21-bd26-ce6b58ab8611.png">
+</p> In this cell we have plotted the area graph </p>
 
 <img width="1356" alt="Screenshot 2022-07-14 at 1 29 11 AM" src="https://user-images.githubusercontent.com/58964309/178825213-0395f878-4655-49cf-8c4a-a8aaf2f76d17.png">
+
+</p> In this cell we have plotted area graph for market cap of all the coins </p>
+</p> To learn more about the EDA kindly refer the python file in the repo </p>
 
 
 
