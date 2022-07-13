@@ -71,5 +71,7 @@ accurate as user point of view. </p>
 </p> In this cell we have plotted area graph for market cap of all the coins </p>
 </p> To learn more about the EDA kindly refer the python file in the repo </p>
 
+<h2> Visualization of DataSet on PowerBI </h2>
+<p> Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. PowerBI is a tool viz tool provided by microsoft, it enables us to create intercative dashboards and help us to gain insights out of data to make informed decisions. In out case informed decision in investment. </p>
 
 
