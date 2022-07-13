@@ -47,7 +47,9 @@ accurate as user point of view. </p>
 
 <img width="1125" alt="Screenshot 2022-07-14 at 1 27 13 AM" src="https://user-images.githubusercontent.com/58964309/178824964-c6b2b111-243a-41bc-83f2-57e5af401400.png">
 
+</p> In this cell we have plotted the marketcap of top 5 coins </p>
 <img width="1226" alt="Screenshot 2022-07-14 at 1 27 56 AM" src="https://user-images.githubusercontent.com/58964309/178824988-b6cc5b80-d600-4697-8a5c-88649b29a716.png">
+</p> In this cell we have plotted the closing price of top 4 coins in a line chart</p>
 
 
 <img width="1226" alt="Screenshot 2022-07-14 at 1 28 09 AM" src="https://user-images.githubusercontent.com/58964309/178825023-300587d8-cfb1-4590-b04f-dc03f2db6a6b.png">
