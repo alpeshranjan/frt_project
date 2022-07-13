@@ -30,4 +30,13 @@ accurate as user point of view. </p>
 
 <p> PHOTO excel </p>
 <p> The name column contains the actual name of the coin</p> <br>
-<b> The symbol column contains the symbol of the coin </b> <br>
+<p> The symbol column contains the symbol of the coin </p> <br>
+<p> The high column contains the highest price that particular coin has reached</p> <br>
+<p> The low column contains the lowest price that particular coin has reached</p> <br>
+<p> The open column contains the at what price the market opened</p> <br>
+<p>The close column contains the at what price the market closed</p> <br>
+<p> The volume column contains how much the given cryptocurrency has traded over a period of time</p> <br>
+<p> The marketcap column contains what is the marketcap at that particular date and time for the listed crypto</p> <br>
+
+
+
