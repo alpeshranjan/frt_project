@@ -22,3 +22,5 @@
 <p> The goal for this project is analysing if long term investment and holding those are worth the wait considering the immense crashes and risk of being a part of new fangled mode of investment. Observing the current Return of Investment and historic trends on investing in cryptocurrencies our project will determine if you shall be holding the money in one a diversified set of coins or in a limited number of strong cryptocurrency projects. We shall also be laying down a dashboard which will let you select low return and low risk coins vs high return and high risk coins. </p>
 
 <h2> Proposed Methodology </p>
+<p> Using the dataset from Kaggle for historic prices of top 100 cryptocurrency coins for exploratory data analysis using tools provided by MicrosoL azure. Later on using Power BI for visualisa6on of the desired results. We are using Power BI because the solu6on comprises several products and services, and value and versa6lity comes from leveraging the individual elements, and taking advantage of how they work together. Hence making the predic6ve conclusion will be easier and
+accurate as user point of view. </p>
