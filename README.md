@@ -74,4 +74,14 @@ accurate as user point of view. </p>
 <h2> Visualization of DataSet on PowerBI </h2>
 <p> Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. PowerBI is a tool viz tool provided by microsoft, it enables us to create intercative dashboards and help us to gain insights out of data to make informed decisions. In out case informed decision in investment. </p>
 
+<img width="1238" alt="Screenshot 2022-07-14 at 1 31 04 AM" src="https://user-images.githubusercontent.com/58964309/178828029-ebef43e0-62c8-49b9-ac69-30ef36fa4117.png">
+
+<img width="1238" alt="Screenshot 2022-07-14 at 1 31 12 AM" src="https://user-images.githubusercontent.com/58964309/178828066-3c3dcf8b-58af-4fbc-a0a6-d43eb3ab334c.png">
+
+<img width="1238" alt="Screenshot 2022-07-14 at 1 31 19 AM" src="https://user-images.githubusercontent.com/58964309/178828090-ff086daf-70ab-470c-9cfd-4fe6dba35bcb.png">
+
+<p> Above are few snapshots from the dashboards we have created in PowerBI, please click on the link we have provided to get interact with the Dashboard and read the insights. </p>
+
+
+
 
