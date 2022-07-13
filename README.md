@@ -53,8 +53,10 @@ accurate as user point of view. </p>
 
 
 <img width="1226" alt="Screenshot 2022-07-14 at 1 28 09 AM" src="https://user-images.githubusercontent.com/58964309/178825023-300587d8-cfb1-4590-b04f-dc03f2db6a6b.png">
+</p> In this cell we have plotted the closing price of top 4 coins in a line chart excluding BTC and ETH and USDT in the last graph </p>
 
 <img width="1356" alt="Screenshot 2022-07-14 at 1 28 30 AM" src="https://user-images.githubusercontent.com/58964309/178825114-c626eb7c-05d3-43f3-8dcd-77c0c7060831.png">
+</p> In this cell we have plotted the prices of differnet coins in line chart </p>
 
 
 <img width="1356" alt="Screenshot 2022-07-14 at 1 28 43 AM" src="https://user-images.githubusercontent.com/58964309/178825140-4c94d54f-8de6-4d9f-a6de-b15e92e70ee4.png">
