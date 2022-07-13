@@ -27,3 +27,7 @@ accurate as user point of view. </p>
 
 <h2> About the DataSet </h2>
 <p>The dataset is a Zip file that consists of the crypto prices of nearly 75 coins from their start date till 30/11/2021. A leaderboard file as of 30/11/2021 has also been included in the zip file named Current Crypto Leaderboard.csv, which has the market capitalization, rank, coin name, symbol, Price, and a tagging variable that mentions the availability of the corresponding coin in the dataset. Historical data(day-interval) of all the coins mentioned in the leaderboard is provided in the dataset. The leaderboard is subject to change as the market cap increases/decreases. Any new coin which enters the top 100 will be added to the dataset. The leaderboard and the dataset will be updated on a monthly basis.</p>
+
+<p> PHOTO excel </p>
+<p> The name column contains the actual name of the coin</p> <br>
+<b> The symbol column contains the symbol of the coin </b> <br>
