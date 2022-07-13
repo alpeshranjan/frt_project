@@ -9,7 +9,7 @@
 <h2> Azure Technologies Used </h3>
 
 <b> 1. PowerBI embedded </b> <br>
-<b> 2. Static WebApp  </b> 
+<b> 2. Static WebApp  </b> <br>
 <b> 3. Azure Virtual Machines </b>
 
 <h2> Prerequisites </h3>
