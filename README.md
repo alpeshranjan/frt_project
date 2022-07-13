@@ -15,5 +15,9 @@
 <h2> Prerequisites </h3>
 
 <b> 1. Azure Subscription </b><br>
-<b> 2. python </b>
+<b> 2. Python </b>
+
+<h2> Project Description </h2>
+
+<p> The goal for this project is analysing if long term investment and holding those are worth the wait considering the immense crashes and risk of being a part of newfangled mode of investment. Observing the current Return of Investment and historic trends on inves6ng in cryptocurrencies our project will determine if you shall be holding the money in one a diversified set of coins or in a limited number of strong cryptocurrency projects. We shall also be laying down a dashboard which will let you select low return and low risk coins vs high return and high risk coins. </p>
 
