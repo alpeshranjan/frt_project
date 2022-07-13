@@ -28,7 +28,9 @@ accurate as user point of view. </p>
 <h2> About the DataSet </h2>
 <p>The dataset is a Zip file that consists of the crypto prices of nearly 75 coins from their start date till 30/11/2021. A leaderboard file as of 30/11/2021 has also been included in the zip file named Current Crypto Leaderboard.csv, which has the market capitalization, rank, coin name, symbol, Price, and a tagging variable that mentions the availability of the corresponding coin in the dataset. Historical data(day-interval) of all the coins mentioned in the leaderboard is provided in the dataset. The leaderboard is subject to change as the market cap increases/decreases. Any new coin which enters the top 100 will be added to the dataset. The leaderboard and the dataset will be updated on a monthly basis.</p>
 
-<p> PHOTO excel </p>
+<img width="716" alt="Screenshot 2022-07-13 at 11 46 07 PM" src="https://user-images.githubusercontent.com/58964309/178824748-bcfaa0bb-d6e8-4002-8657-7a2389172dc2.png">
+
+
 
 <p> The name column contains the actual name of the coin</p> <br>
 <p> The symbol column contains the symbol of the coin </p> <br>
@@ -42,7 +44,15 @@ accurate as user point of view. </p>
 <h2> Exploratory Data Analysis </h2>
 <p> We have used Google Colab with python for EDA of the dataset. We used pandas, numpy, matplotlib.pyplot, seaborn, pandas_datareader.data  plotly.express, and plotly.graph_objects. Pandas is mainly used for data analysis and associated manipulation of tabular data in Dataframes.NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. </p>
 
-<p> PHOTO </p>
+
+<img width="1125" alt="Screenshot 2022-07-14 at 1 27 13 AM" src="https://user-images.githubusercontent.com/58964309/178824964-c6b2b111-243a-41bc-83f2-57e5af401400.png">
+
+<img width="1226" alt="Screenshot 2022-07-14 at 1 27 56 AM" src="https://user-images.githubusercontent.com/58964309/178824988-b6cc5b80-d600-4697-8a5c-88649b29a716.png">
+
+
+<img width="1226" alt="Screenshot 2022-07-14 at 1 28 09 AM" src="https://user-images.githubusercontent.com/58964309/178825023-300587d8-cfb1-4590-b04f-dc03f2db6a6b.png">
+
+
 
 
 
