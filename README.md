@@ -52,7 +52,15 @@ accurate as user point of view. </p>
 
 <img width="1226" alt="Screenshot 2022-07-14 at 1 28 09 AM" src="https://user-images.githubusercontent.com/58964309/178825023-300587d8-cfb1-4590-b04f-dc03f2db6a6b.png">
 
+<img width="1356" alt="Screenshot 2022-07-14 at 1 28 30 AM" src="https://user-images.githubusercontent.com/58964309/178825114-c626eb7c-05d3-43f3-8dcd-77c0c7060831.png">
 
+
+<img width="1356" alt="Screenshot 2022-07-14 at 1 28 43 AM" src="https://user-images.githubusercontent.com/58964309/178825140-4c94d54f-8de6-4d9f-a6de-b15e92e70ee4.png">
+
+
+<img width="1356" alt="Screenshot 2022-07-14 at 1 29 00 AM" src="https://user-images.githubusercontent.com/58964309/178825153-8b227f8f-18a5-4f21-bd26-ce6b58ab8611.png">
+
+<img width="1356" alt="Screenshot 2022-07-14 at 1 29 11 AM" src="https://user-images.githubusercontent.com/58964309/178825213-0395f878-4655-49cf-8c4a-a8aaf2f76d17.png">
 
 
 
