@@ -19,7 +19,7 @@
 
 <h2> Project Description </h2>
 
-<p> The goal for this project is analysing if long term investment and holding those are worth the wait considering the immense crashes and risk of being a part of new fangled mode of investment. Observing the current Return of Investment and historic trends on investing in cryptocurrencies our project will determine if you shall be holding the money in one a diversified set of coins or in a limited number of strong cryptocurrency projects. We shall also be laying down a dashboard which will let you select low return and low risk coins vs high return and high risk coins. </p>
+<p> The goal for this project is analysing if long term investment and holding those are worth the wait considering the immense crashes and risk of being a part of new fangled mode of investment. Observing the current Return of Investment and historic trends on investing in cryptocurrencies our project will determine if you shall be holding the money in one a diversified set of coins or in a limited number of strong cryptocurrency projects. We shall also be laying down a dashboard which will let you select low return and low risk coins vs high return and high risk coins. We have used Bootstrap to create a webpage where we shall be displaying our Dashboards. </p>
 
 <h2> Proposed Methodology </h2>
 <p> Using the dataset from Kaggle for historic prices of top 100 cryptocurrency coins for exploratory data analysis using tools provided by MicrosoL azure. Later on using Power BI for visualisation of the desired results. We are using Power BI because the solu6on comprises several products and services, and value and versatility comes from leveraging the individual elements, and taking advantage of how they work together. Hence making the predictive conclusion will be easier and
@@ -80,8 +80,27 @@ accurate as user point of view. </p>
 
 <img width="1238" alt="Screenshot 2022-07-14 at 1 31 19 AM" src="https://user-images.githubusercontent.com/58964309/178828090-ff086daf-70ab-470c-9cfd-4fe6dba35bcb.png">
 
-<p> Above are few snapshots from the dashboards we have created in PowerBI, please click on the link we have provided to get interact with the Dashboard and read the insights. </p>
+<p> Above are few snapshots from the dashboards we have created in PowerBI, please click on the link we have provided to interact with the Dashboard and read the insights. </p>
+
+<h2> Deployment of website on Azure </p>
+<p> We have actually used Virtual Machine to access PowerBI, other than that we have used the azure service : static Webapp to deploy the website. </p>
+
+
+<img width="1440" alt="Screenshot 2022-07-14 at 1 29 51 AM" src="https://user-images.githubusercontent.com/58964309/178829554-d336fafc-b2a2-4d1f-bca4-bed984c90466.png">
+
+
+<img width="1440" alt="Screenshot 2022-07-14 at 1 30 10 AM" src="https://user-images.githubusercontent.com/58964309/178829578-da047c33-5f64-49f2-af23-ddc6cf1f41c9.png">
+
+<img width="1440" alt="Screenshot 2022-07-14 at 1 30 18 AM" src="https://user-images.githubusercontent.com/58964309/178829611-fd5dccec-e5a6-41cd-8fe6-5b085944477f.png">
+
+<p> Above are the snapshots from resource group window which demonstates the usage of azure services </p>
+
+</h2> Working video of Website </h2>
 
 
 
+https://user-images.githubusercontent.com/58964309/178829978-e64d23e1-0e3d-4c3c-97bf-afc9c3f1d4ab.mov
 
+<h2> Project Link </h2>
+
+https://black-dune-0c5f90200.1.azurestaticapps.net
